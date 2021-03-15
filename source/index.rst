@@ -12,7 +12,7 @@ Welcome to Wallaby Docs's documentation!
  
    Introduction/index
    How-to-Guides/index
-   BUNNY-token/index
+   WALLABY-token/index
    Vaults/index
    ZAP/index
    Governance/index
